@@ -1,0 +1,1 @@
+We have created ebookshop with the help of cloud platform i.e Apex Oracle so following images are showing the static web app , in shop owner can add the data base , and can arrange the data in whichever way they want ,and buyer can search it by author name ,or book tittle

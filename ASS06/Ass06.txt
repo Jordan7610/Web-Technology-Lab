@@ -1,0 +1,1 @@
+HEre also we have use apex oracle database , here student can add the data and remove the data and edit the database and with  in the side bar option there is option where you view the whole database
